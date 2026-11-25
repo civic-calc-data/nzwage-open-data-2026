@@ -1,0 +1,11 @@
+scenario,primary_job_nzd,secondary_job_nzd,combined_income_nzd,ird_secondary_code,secondary_paye_rate_pct,total_paye_withheld_nzd,total_acc_withheld_nzd,true_single_job_paye_nzd,true_single_job_acc_nzd,paye_refund_after_31_march_nzd,acc_excess_refund_nzd,total_end_of_year_refund_nzd
+"Two part-time jobs ($25k + $15k)",25000,15000,40000,S,17.5,5388.00,700.00,5388.00,700.00,0.00,0.00,0.00
+"Retail + hospitality ($35k + $18k)",35000,18000,53000,S,17.5,7663.00,927.50,7663.00,927.50,0.00,0.00,0.00
+"Full-time + weekend ($45k + $15k)",45000,15000,60000,SH,30.0,10763.00,1050.00,9700.50,1050.00,1062.50,0.00,1062.50
+"Crosses $53.5k threshold ($48k + $18k)",48000,18000,66000,SH,30.0,12188.00,1155.00,11500.50,1155.00,687.50,0.00,687.50
+"Admin + evening tutoring ($55k + $15k)",55000,15000,70000,SH,30.0,13220.50,1225.00,13220.50,1225.00,0.00,0.00,0.00
+"Crosses $78.1k threshold ($65k + $25k)",65000,25000,90000,ST,33.0,19970.50,1575.00,19577.50,1575.00,393.00,0.00,393.00
+"Nurse + agency shifts ($75k + $20k)",75000,20000,95000,ST,33.0,21320.50,1662.50,21227.50,1662.50,93.00,0.00,93.00
+"Salaried + side contract ($90k + $25k)",90000,25000,115000,ST,33.0,27827.50,2012.50,27827.50,2012.50,0.00,0.00,0.00
+"Exceeds $156.6k ACC cap ($120k + $50k)",120000,50000,170000,ST,33.0,45977.50,2975.00,45977.50,2741.22,0.00,233.78,233.78
+"Crosses $180k top rate ($150k + $45k)",150000,45000,195000,SA,39.0,56927.50,3412.50,55127.50,2741.22,1800.00,671.28,2471.28

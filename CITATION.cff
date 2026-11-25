@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, report, or analysis, please cite NZWage as below."
+title: "NZWage Open Data 2026/27: New Zealand Effective PAYE Tax Burden, KiwiSaver ESCT Impact, and Secondary Tax Refunds"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://nzwage.nz/reports/"
+authors:
+  - name: "NZWage"
+    website: "https://nzwage.nz/"
+    email: "contact@nzwage.nz"
+keywords:
+  - new-zealand
+  - paye
+  - kiwisaver
+  - esct
+  - acc-levy
+  - secondary-tax
+  - ird
+  - open-data
+abstract: "Three open CSV datasets modeling finalized 2026/27 New Zealand IRD income tax brackets, the 3.5% default KiwiSaver rate and 1.75% ACC Earner's Levy, employer ESCT rate cliffs, and exact year-end refund math across 10 secondary-tax scenarios."
